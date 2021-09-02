@@ -1,7 +1,8 @@
 {
     "compilerOptions": {
-        "target": "es6",
-        "moduleResolution": "node"
+      "target": "es6",
+      "moduleResolution": "node"
     },
     "include": ["./src/**/*.ts"]
-}
+  }
+  
